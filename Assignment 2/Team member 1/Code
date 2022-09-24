@@ -1,0 +1,12 @@
+temp=int (input("Enter a temp value"))
+hum=int (input("Enter a huminity value"))
+
+
+#to check the tempreture........!!!!
+if(temp>hum):
+    print("alaram...!!!")
+elif(temp>hum):
+    print("temperature is low")
+else:
+    print("Tempreture is in normal")
+    
